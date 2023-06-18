@@ -1,0 +1,2 @@
+# Sports-Betting-and-Score-Prediction-using-Machine-Learning
+This repository is for the “Sports Betting and Score Prediction using Machine Learning” project, which uses machine learning to predict Basket-Ball  games outcomes and provide betting recommendations.The Script analyzes BASKETBALL data and checks then Trends to constantly update its accuracy. it Fetches  live BASKETBALL data using the Odds API.
